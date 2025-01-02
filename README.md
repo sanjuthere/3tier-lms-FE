@@ -20,3 +20,10 @@
 - Serve generated `dist/` folder with a production web server
 
 _View the deployment resource in azure cloud portal at [here.](https://portal.azure.com/#@mkonakonamars.onmicrosoft.com/resource/subscriptions/d5f3450e-23c9-47f0-a07c-f650dee64c3c/resourcegroups/javascript-stack/providers/Microsoft.Web/staticSites/konamars/staticsite)_
+npm uninstall msw  uninstall old msw
+npm install msw@0.49.3
+npm uninstall typescript
+npm install typescript@4.9.5
+npm install msw@0.49.3
+
+
